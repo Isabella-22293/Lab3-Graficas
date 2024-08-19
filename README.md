@@ -1,1 +1,1 @@
-# Lab3-Graficas
+# Proyecto 1-Graficas
