@@ -1,0 +1,10 @@
+D:\Documentos\Sexto semestre\Graficas\Lab3-Graficas\proyecto1\target\debug\deps\libwindows_result-ab6cb1f1145a0a27.rmeta: C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src/lib.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\bindings.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\com.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\strings.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\error.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\hresult.rs
+
+D:\Documentos\Sexto semestre\Graficas\Lab3-Graficas\proyecto1\target\debug\deps\windows_result-ab6cb1f1145a0a27.d: C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src/lib.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\bindings.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\com.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\strings.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\error.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\hresult.rs
+
+C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src/lib.rs:
+C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\bindings.rs:
+C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\com.rs:
+C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\strings.rs:
+C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\error.rs:
+C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.2\src\hresult.rs:
